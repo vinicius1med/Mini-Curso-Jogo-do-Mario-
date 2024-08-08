@@ -8,3 +8,6 @@ principalmente frontend, de uma forma mais descontraída levando em consideraç�
 mostar as pessoas o que você já fez (Além é claro, de poder construir seu próprio portfólio).
 
 Duração: 2h
+
+Link para acesso ao material original: https://youtu.be/r9buAwVBDhA?si=u2yH72r9wJJbSrA4
+Créditos: Canal Manual do Dev no youtube.
